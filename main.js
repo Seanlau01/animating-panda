@@ -95,7 +95,7 @@
     left:50%;
     margin-left:-46px;
     border-radius:30%;
-    z-index:2;
+    z-index:0;
     background:white;
 }
 /*然后画大熊猫的手臂*/

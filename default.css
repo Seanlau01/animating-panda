@@ -40,12 +40,11 @@ body{
     border:none;
     border-radius:20%;
     outline:none;
-    transition:all 0.06s;
+    cursor:pointer;
+    
 }
 .actions>button.active{
     background:rgb(148, 15, 243);
-    transform:scale(1.1);
-    
 }
 .active>button:focus{
     outline:none;
